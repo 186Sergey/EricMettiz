@@ -5,7 +5,7 @@
 Написать последовательность условий. Вывести описание каждой проверки и прогноз относительно её результата. Код
 должен выглядеть примерно так:
     car = 'subaru'
-        print("Is car == 'subaru'? I predict true.")
+        print("Is car == 'subaru'? I predict True.")
         print(car == 'subaru')
         print("\nIs car == 'audi'? I predict False.")
     print(car == 'audi')
